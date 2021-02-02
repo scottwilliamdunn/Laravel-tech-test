@@ -74,6 +74,10 @@
   you've used any additional packages and observe how the application runs from fresh.
 </p>
 
-<p>We are looking at your ability to work with PHP & Laravel framework, the frontend visuals are not important though
+<p>We are looking at your ability to work with PHP & Laravel framework, how well you leverage the built in features
+ as well as how you write your code and the logic behind it.
+</p>
+
+<p>The frontend visuals are not important though
  if you want to show off any additional skill set you are fee to do so as long as the end result works.
 </p>
