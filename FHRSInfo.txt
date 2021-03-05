@@ -1,0 +1,80 @@
+{#371 ▼
+  +"businessTypes": array:15 [▼
+    0 => {#350 ▼
+      +"BusinessTypeId": -1
+      +"BusinessTypeName": "All"
+      +"links": array:1 [▶]
+    }
+    1 => {#354 ▼
+      +"BusinessTypeId": 7
+      +"BusinessTypeName": "Distributors/Transporters"
+      +"links": array:1 [▶]
+    }
+    2 => {#380 ▼
+      +"BusinessTypeId": 7838
+      +"BusinessTypeName": "Farmers/growers"
+      +"links": array:1 [▶]
+    }
+    3 => {#378 ▼
+      +"BusinessTypeId": 5
+      +"BusinessTypeName": "Hospitals/Childcare/Caring Premises"
+      +"links": array:1 [▶]
+    }
+    4 => {#376 ▼
+      +"BusinessTypeId": 7842
+      +"BusinessTypeName": "Hotel/bed & breakfast/guest house"
+      +"links": array:1 [▶]
+    }
+    5 => {#361 ▼
+      +"BusinessTypeId": 14
+      +"BusinessTypeName": "Importers/Exporters"
+      +"links": array:1 [▶]
+    }
+    6 => {#359 ▼
+      +"BusinessTypeId": 7839
+      +"BusinessTypeName": "Manufacturers/packers"
+      +"links": array:1 [▶]
+    }
+    7 => {#358 ▼
+      +"BusinessTypeId": 7846
+      +"BusinessTypeName": "Mobile caterer"
+      +"links": array:1 [▶]
+    }
+    8 => {#356 ▼
+      +"BusinessTypeId": 7841
+      +"BusinessTypeName": "Other catering premises"
+      +"links": array:1 [▶]
+    }
+    9 => {#368 ▼
+      +"BusinessTypeId": 7843
+      +"BusinessTypeName": "Pub/bar/nightclub"
+      +"links": array:1 [▶]
+    }
+    10 => {#365 ▼
+      +"BusinessTypeId": 1
+      +"BusinessTypeName": "Restaurant/Cafe/Canteen"
+      +"links": array:1 [▼
+        0 => {#364 ▶}
+      ]
+    }
+    11 => {#363 ▼
+      +"BusinessTypeId": 4613
+      +"BusinessTypeName": "Retailers - other"
+      +"links": array:1 [▶]
+    }
+    12 => {#370 ▼
+      +"BusinessTypeId": 7840
+      +"BusinessTypeName": "Retailers - supermarkets/hypermarkets"
+      +"links": array:1 [▶]
+    }
+    13 => {#391 ▼
+      +"BusinessTypeId": 7845
+      +"BusinessTypeName": "School/college/university"
+      +"links": array:1 [▶]
+    }
+    14 => {#395 ▼
+      +"BusinessTypeId": 7844
+      +"BusinessTypeName": "Takeaway/sandwich shop"
+      +"links": array:1 [▶]
+    }
+  ]
